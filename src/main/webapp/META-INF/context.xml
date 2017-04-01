@@ -1,0 +1,8 @@
+<Context>
+    <Resource name="jdbc/NewsDb" auth="Container" type="javax.sql.DataSource"
+              maxActive="50" maxIdle="30" maxWait="10000"
+              username="quanpv" password="CZQmwXR6KuLC2s3"
+              driverClassName="com.mysql.jdbc.Driver"
+              url="jdbc:mysql://localhost:3306/NewsDb"/>
+
+</Context>
